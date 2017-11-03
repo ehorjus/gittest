@@ -1,0 +1,4 @@
+emmet
+file icons
+minimap
+pigments
